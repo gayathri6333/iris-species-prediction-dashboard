@@ -52,7 +52,26 @@ python src/predict.py --features 5.1 3.5 1.4 0.2
 
 # 5) Launch the Streamlit app
 streamlit run app_streamlit.py
-```
+
+## Screenshots
+
+### Home Page
+![Home](screenshots/01-.png)
+
+### Welcome Screen
+![Welcome](screenshots/02.png)
+
+### Prediction Page
+![Prediction](screenshots/03.png)
+
+### Prediction Result
+![Result](screenshots/04.png)
+
+### Model Performance
+![Performance](screenshots/05.png)
+
+### Reports
+![Reports](screenshots/06.png)
 
 ## 📈 What gets generated after training
 - `models/model.joblib` – the trained pipeline.
