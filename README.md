@@ -68,5 +68,5 @@ streamlit run app_streamlit.py
 ---
 
 **Built on:** Python 3.10+ and scikit‑learn  
-**Author:** _Your Name_  
+**Author:** S.Gayathri Devi 
 **Date:** 2025-08-31
