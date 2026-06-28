@@ -91,9 +91,5 @@ streamlit run app_streamlit.py
 ---
 
 **Built on:** Python 3.10+ and scikit‑learn  
-<<<<<<< HEAD
-**Author:** _Your Name_  
-=======
 **Author:** S.Gayathri Devi 
->>>>>>> 7f64918f1516acab94e041c080c7bfdd778c50a8
 **Date:** 2025-08-31
