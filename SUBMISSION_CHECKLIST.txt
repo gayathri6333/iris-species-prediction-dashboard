@@ -1,0 +1,8 @@
+SUBMISSION CHECKLIST
+
+[ ] Code runs without errors with the steps in README.md
+[ ] Trained model saved to models/model.joblib
+[ ] Reports generated in reports/ (metrics.json, classification_report.txt, confusion_matrix.png)
+[ ] Filled REPORT_TEMPLATE.md with actual numbers and screenshots
+[ ] Included screenshots of the Streamlit app
+[ ] Project zipped and named with my details (e.g., YourName_GradGuru_AI_Python_Iris.zip)
